@@ -1,4 +1,4 @@
-﻿patient;fever;vomiting;diarrhea;shivering;class
+patient;fever;vomiting;diarrhea;shivering;class
 P1;no;no;no;no;healthy (H)
 P2;average;no;no;no;influenza (I)
 P3;high;no;no;yes;influenza (I)
